@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tamiltimes/static/css/main.df4e2ffc.css",
+    "main.js": "/tamiltimes/static/js/main.dac09acc.js",
+    "static/media/kings1.jpg": "/tamiltimes/static/media/kings1.700000c8e36865f756bf.jpg",
+    "static/media/contact-bg.jpg": "/tamiltimes/static/media/contact-bg.600980c10a38ab36e542.jpg",
+    "static/media/ut-pub-logo.jpg": "/tamiltimes/static/media/ut-pub-logo.c1a0b3a065898eedc685.jpg",
+    "static/media/pub-bg.jpg": "/tamiltimes/static/media/pub-bg.057b1c8a6c1e4cb1cb5c.jpg",
+    "static/media/about-bg.jpg": "/tamiltimes/static/media/about-bg.94e740eb7af38375276f.jpg",
+    "static/media/tt-pub-logo.jpg": "/tamiltimes/static/media/tt-pub-logo.b6242ee89151fb77f210.jpg",
+    "static/media/kk-pub-logo.jpg": "/tamiltimes/static/media/kk-pub-logo.8a63843d88b62d54fede.jpg",
+    "index.html": "/tamiltimes/index.html",
+    "main.df4e2ffc.css.map": "/tamiltimes/static/css/main.df4e2ffc.css.map",
+    "main.dac09acc.js.map": "/tamiltimes/static/js/main.dac09acc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4e2ffc.css",
+    "static/js/main.dac09acc.js"
+  ]
+}
