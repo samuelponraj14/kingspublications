@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kingspublications/static/css/main.8b7e3ef7.css",
+    "main.css": "/kingspublications/static/css/main.9c2d5fde.css",
     "main.js": "/kingspublications/static/js/main.f4fa7972.js",
     "static/media/kings1.jpg": "/kingspublications/static/media/kings1.700000c8e36865f756bf.jpg",
     "static/media/contact-bg.jpg": "/kingspublications/static/media/contact-bg.600980c10a38ab36e542.jpg",
@@ -10,11 +10,11 @@
     "static/media/tt-pub-logo.jpg": "/kingspublications/static/media/tt-pub-logo.b6242ee89151fb77f210.jpg",
     "static/media/kk-pub-logo.jpg": "/kingspublications/static/media/kk-pub-logo.8a63843d88b62d54fede.jpg",
     "index.html": "/kingspublications/index.html",
-    "main.8b7e3ef7.css.map": "/kingspublications/static/css/main.8b7e3ef7.css.map",
+    "main.9c2d5fde.css.map": "/kingspublications/static/css/main.9c2d5fde.css.map",
     "main.f4fa7972.js.map": "/kingspublications/static/js/main.f4fa7972.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b7e3ef7.css",
+    "static/css/main.9c2d5fde.css",
     "static/js/main.f4fa7972.js"
   ]
 }
