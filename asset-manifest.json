@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/kingspublications/static/css/main.9c2d5fde.css",
+    "main.css": "/kingspublications/static/css/main.4f460126.css",
     "main.js": "/kingspublications/static/js/main.f4fa7972.js",
+    "static/media/pub-bg-mob.jpg": "/kingspublications/static/media/pub-bg-mob.048d3a3f55d66f85881c.jpg",
     "static/media/kings1.jpg": "/kingspublications/static/media/kings1.700000c8e36865f756bf.jpg",
     "static/media/contact-bg.jpg": "/kingspublications/static/media/contact-bg.600980c10a38ab36e542.jpg",
     "static/media/ut-pub-logo.jpg": "/kingspublications/static/media/ut-pub-logo.c1a0b3a065898eedc685.jpg",
@@ -10,11 +11,11 @@
     "static/media/tt-pub-logo.jpg": "/kingspublications/static/media/tt-pub-logo.b6242ee89151fb77f210.jpg",
     "static/media/kk-pub-logo.jpg": "/kingspublications/static/media/kk-pub-logo.8a63843d88b62d54fede.jpg",
     "index.html": "/kingspublications/index.html",
-    "main.9c2d5fde.css.map": "/kingspublications/static/css/main.9c2d5fde.css.map",
+    "main.4f460126.css.map": "/kingspublications/static/css/main.4f460126.css.map",
     "main.f4fa7972.js.map": "/kingspublications/static/js/main.f4fa7972.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c2d5fde.css",
+    "static/css/main.4f460126.css",
     "static/js/main.f4fa7972.js"
   ]
 }
