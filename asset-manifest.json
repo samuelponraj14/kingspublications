@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/kingspublications/static/css/main.9c2d5fde.css",
-    "main.js": "/kingspublications/static/js/main.f4fa7972.js",
+    "main.css": "/kingspublications/static/css/main.2be2d655.css",
+    "main.js": "/kingspublications/static/js/main.b2fbaa97.js",
+    "static/media/live1.png": "/kingspublications/static/media/live1.63e115309b92ab9be873.png",
+    "static/media/live4.png": "/kingspublications/static/media/live4.abcb2a7c764dc7c7b33d.png",
     "static/media/kings1.jpg": "/kingspublications/static/media/kings1.700000c8e36865f756bf.jpg",
     "static/media/contact-bg.jpg": "/kingspublications/static/media/contact-bg.600980c10a38ab36e542.jpg",
     "static/media/ut-pub-logo.jpg": "/kingspublications/static/media/ut-pub-logo.c1a0b3a065898eedc685.jpg",
     "static/media/pub-bg.jpg": "/kingspublications/static/media/pub-bg.057b1c8a6c1e4cb1cb5c.jpg",
     "static/media/about-bg.jpg": "/kingspublications/static/media/about-bg.94e740eb7af38375276f.jpg",
     "static/media/tt-pub-logo.jpg": "/kingspublications/static/media/tt-pub-logo.b6242ee89151fb77f210.jpg",
+    "static/media/live2.jpg": "/kingspublications/static/media/live2.756e288e8455dc02f756.jpg",
     "static/media/kk-pub-logo.jpg": "/kingspublications/static/media/kk-pub-logo.8a63843d88b62d54fede.jpg",
+    "static/media/live3.jpg": "/kingspublications/static/media/live3.8410dd6f2ceabe701dfe.jpg",
     "index.html": "/kingspublications/index.html",
-    "main.9c2d5fde.css.map": "/kingspublications/static/css/main.9c2d5fde.css.map",
-    "main.f4fa7972.js.map": "/kingspublications/static/js/main.f4fa7972.js.map"
+    "main.2be2d655.css.map": "/kingspublications/static/css/main.2be2d655.css.map",
+    "main.b2fbaa97.js.map": "/kingspublications/static/js/main.b2fbaa97.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c2d5fde.css",
-    "static/js/main.f4fa7972.js"
+    "static/css/main.2be2d655.css",
+    "static/js/main.b2fbaa97.js"
   ]
 }
