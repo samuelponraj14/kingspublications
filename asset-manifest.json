@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kingspublications/static/css/main.fdfd1993.css",
-    "main.js": "/kingspublications/static/js/main.7d80bf34.js",
+    "main.css": "/kingspublications/static/css/main.99954862.css",
+    "main.js": "/kingspublications/static/js/main.5e5383ae.js",
     "static/media/live3.png": "/kingspublications/static/media/live3.6b5d051c7bb09951d35a.png",
     "static/media/live4.png": "/kingspublications/static/media/live4.8e46e15a34cd21989574.png",
     "static/media/live2.png": "/kingspublications/static/media/live2.e32d7f5edbd66e9192a9.png",
@@ -14,11 +14,11 @@
     "static/media/tt-pub-logo.jpg": "/kingspublications/static/media/tt-pub-logo.b6242ee89151fb77f210.jpg",
     "static/media/kk-pub-logo.jpg": "/kingspublications/static/media/kk-pub-logo.8a63843d88b62d54fede.jpg",
     "index.html": "/kingspublications/index.html",
-    "main.fdfd1993.css.map": "/kingspublications/static/css/main.fdfd1993.css.map",
-    "main.7d80bf34.js.map": "/kingspublications/static/js/main.7d80bf34.js.map"
+    "main.99954862.css.map": "/kingspublications/static/css/main.99954862.css.map",
+    "main.5e5383ae.js.map": "/kingspublications/static/js/main.5e5383ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdfd1993.css",
-    "static/js/main.7d80bf34.js"
+    "static/css/main.99954862.css",
+    "static/js/main.5e5383ae.js"
   ]
 }
