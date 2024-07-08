@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kingspublications/static/css/main.26b7bdef.css",
-    "main.js": "/kingspublications/static/js/main.72b00797.js",
+    "main.js": "/kingspublications/static/js/main.1af44140.js",
     "static/media/live3.png": "/kingspublications/static/media/live3.6b5d051c7bb09951d35a.png",
     "static/media/live4.png": "/kingspublications/static/media/live4.8e46e15a34cd21989574.png",
     "static/media/live2.png": "/kingspublications/static/media/live2.e32d7f5edbd66e9192a9.png",
@@ -15,10 +15,10 @@
     "static/media/kk-pub-logo.jpg": "/kingspublications/static/media/kk-pub-logo.8a63843d88b62d54fede.jpg",
     "index.html": "/kingspublications/index.html",
     "main.26b7bdef.css.map": "/kingspublications/static/css/main.26b7bdef.css.map",
-    "main.72b00797.js.map": "/kingspublications/static/js/main.72b00797.js.map"
+    "main.1af44140.js.map": "/kingspublications/static/js/main.1af44140.js.map"
   },
   "entrypoints": [
     "static/css/main.26b7bdef.css",
-    "static/js/main.72b00797.js"
+    "static/js/main.1af44140.js"
   ]
 }
